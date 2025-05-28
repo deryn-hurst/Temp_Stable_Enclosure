@@ -22,6 +22,10 @@ Layered
   - Laydered Table Sketches are listed using convention: Table-Layer_NUMBER
   - Follow from 0 to ELEPHANT to access in order
 
+Physical
+  - Paired with each layered sketch is an example photo with the same number
+  - Physical Table Images are listed using the convention: Table-Image_NUMBER
+
 
 ENCLOSURE SKETCHES
 

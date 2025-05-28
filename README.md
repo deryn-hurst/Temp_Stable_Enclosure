@@ -15,11 +15,11 @@ TABLE SKETCHES
 Conceptual
   - Conceptual sketches can be used for alternative construction paths for the table/stand.
   - Only final plans are included in full
-  - Conceptual Sketches are listed using convention: ELEPHANT
+  - Conceptual Sketches are listed using convention: Table-Concept_NUMBER
 
 Layered
   - Layered sketches include all steps toward completing the table
-  - Laydered Table Sketches are listed using convention: ELEPHANT
+  - Laydered Table Sketches are listed using convention: Table-Layer_NUMBER
   - Follow from 0 to ELEPHANT to access in order
 
 
@@ -27,7 +27,7 @@ ENCLOSURE SKETCHES
 
 Layered
   - Layered sketches include all steps toward completing the enclosure
-  - Layered Enclosure Sketches are listed using convention: ELEPHANT
+  - Layered Enclosure Sketches are listed using convention: Enclosure-Layer_NUMBER
   - Follow from 0 to ELEPHANT to access in order
 
 E-MATERIALS

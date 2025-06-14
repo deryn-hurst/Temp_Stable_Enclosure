@@ -20,7 +20,7 @@ Conceptual
 Layered
   - Layered sketches include all steps toward completing the table
   - Laydered Table Sketches are listed using convention: Table-Layer_NUMBER
-  - Follow from 0 to ELEPHANT to access in order
+  - Follow from 0 to 3 to access in order
 
 Physical
   - Paired with each layered sketch is an example photo with the same number

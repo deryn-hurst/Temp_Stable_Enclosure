@@ -32,7 +32,7 @@ ENCLOSURE SKETCHES
 Layered
   - Layered sketches include all steps toward completing the enclosure
   - Layered Enclosure Sketches are listed using convention: Enclosure-Layer_NUMBER
-  - Follow from 0 to ELEPHANT to access in order
+  - Follow from 0 to 9 to access in order
 
 E-MATERIALS
   - Electronic Materials will be included with sources and notes for ease of access

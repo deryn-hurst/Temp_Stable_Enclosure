@@ -48,5 +48,5 @@ CODE
 
 Arduino-Based Code
   - Arduino UNO and compatible materials were used to complete the fan set up
-  - The program is listed under: ELEPHANT
+  - The program is listed under: 3DPrinterEnclosure.ino
   - Changes may need to be made to the code to accomodate discrepancies in wiring

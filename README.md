@@ -41,6 +41,7 @@ E-MATERIALS
 ARDUINO CONCEPTUAL SCHEMATICS
   - Arduino set-up was put together using CAD software initially
   - Conceptual schematics for electronic hardware is derived from Tinkercad
+  - The schematics are listed under: 3DPrinterEnclosure.pdf
   - Some changes may need to be made in wiring to account for conceptual and practical differences
 
 
